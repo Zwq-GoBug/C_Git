@@ -1,0 +1,3 @@
+﻿  指针_比较.c
+野指针.obj : error LNK2005: _main 已经在 指针_比较.obj 中定义
+C:\Users\ZWQ-PC\Desktop\C_Language\野指针\Debug\野指针.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
