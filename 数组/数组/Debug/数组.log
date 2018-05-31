@@ -1,0 +1,5 @@
+﻿  数组_指针.c
+h:\learning\c_language\c_git\数组\数组\数组_指针.c(16): warning C4047: “函数”:“int *”与“int”的间接级别不同
+h:\learning\c_language\c_git\数组\数组\数组_指针.c(16): warning C4024: “print_arr”: 形参和实参 1 的类型不同
+h:\learning\c_language\c_git\数组\数组\数组_指针.c(12): warning C4047: “初始化”:“int”与“int *”的间接级别不同
+  数组.vcxproj -> H:\Learning\C_Language\C_Git\数组\Debug\数组.exe
