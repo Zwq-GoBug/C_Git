@@ -143,6 +143,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="fei.c" />
     <ClCompile Include="p_0.c" />
   </ItemGroup>
   <ItemGroup>

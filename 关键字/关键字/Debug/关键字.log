@@ -1,0 +1,3 @@
+﻿  关键字-sizeof.c
+h:\learning\c_language\c_git\关键字\关键字\关键字-sizeof.c(5): warning C4047: “初始化”:“int *”与“int”的间接级别不同
+  关键字.vcxproj -> H:\Learning\C_Language\C_Git\关键字\Debug\关键字.exe

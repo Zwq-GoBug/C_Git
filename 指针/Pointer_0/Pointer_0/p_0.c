@@ -8,14 +8,14 @@ int string_len(char *string);
 typedef struct StackRecord *Stack;
 
 
-int main(void)
+int main01(void)
 {
 	Stack S;
 	char ch[] = "hello world";
 	char *c = ch;
 	int str_len;
 	int N;
-	strlen();
+	//strlen();
 	str_len = string_len(ch);
 	printf("字符串的长度为：%d\n", str_len);
 
@@ -24,6 +24,23 @@ int main(void)
 	printf("\n\n");
 		
 	return 0;
+}
+
+#include <stdio.h>
+
+void FeiBo(int N);
+
+
+int main(void)
+{
+	FeiBo(3);
+	return 0;
+}
+
+
+void FeiBo(int N)
+{
+	return N < 2 ? N : FeiBo(N - 1) + FeiBo(N - 2);
 }
 
 

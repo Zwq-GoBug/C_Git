@@ -1,0 +1,3 @@
+﻿  函数参数.c
+h:\learning\c_language\c_git\结构体_函数条用\结构体_函数条用\函数参数.c(22): warning C4305: “=”: 从“double”到“float”截断
+  结构体_函数条用.vcxproj -> H:\Learning\C_Language\C_Git\结构体_函数条用\Debug\结构体_函数调用.exe
